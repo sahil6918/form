@@ -1,0 +1,54 @@
+*{
+ box-sizing:content-box;
+ margin: 0;
+ padding: 0;
+ color: whitesmoke;
+
+}
+
+body{
+  background: url(fusion.jpg);
+}
+form{
+    width: 100wh;
+    max-width: 500wh;
+    margin: 50px;
+    padding: 100px;
+    box-sizing: border-box;
+    background:fixed;
+}
+.passwordspacing{
+   border-width: medium;
+   border-radius: 2%;
+   padding-right: 0%;
+}
+.emailspacing{
+     scroll-padding-block-end:initial;
+     padding-right: 0%;
+     column-width: initial;
+}
+.display-40{
+    width: 40%;
+    display: inline-block;
+    margin-right: 5px;
+}
+.submit{
+    background-color: black;
+    padding:5%;
+    position: top;
+}
+.submit.display-40{
+    width: 10px;
+    display: inline-block;
+    margin-bottom: 2px;
+}
+.col-md-6{
+   width: 50%;
+    display: inline-block;
+    margin-right: 5px; 
+    color: turquoise; 
+}
+  
+
+     
+    
